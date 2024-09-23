@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Boing",
+            "description" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "price": 15000,
+            "image": "https://cdn.pixabay.com/photo/2019/09/05/15/25/airbus-4454338_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Chendju J10",
+             "description" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "price": 15000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/J-10B_with_PL-10_and_PL-12.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mikoyan MiG-35",
+             "description" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "price": 15000,
+            "image": "https://cdn-cavok.nuneshost.com/wp-content/uploads/2021/09/maxresdefault-17.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Saab JAS 39 Gripen",
+             "description" : "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "price": 15000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg/1200px-Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_%28altered%29_copy.jpg"
+        }
+    ]
+}
